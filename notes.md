@@ -20,3 +20,8 @@ Le pattern builder:
 figure 3 :
 permet d"abstraire la construction d'objets complexes de leur implantation de sorte qu'un client puisse créer des objets
 complexes sans avoir a se preoccuper des differences d'implantation 
+la pattern Factory method : le but de ce pattern est d'introduire une méthode abstraite de creation d'objets en respectant 
+la sous classes concrètes la creation effective .
+
+2éme famille de pattern : les patterns de structuration :
+
